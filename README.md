@@ -55,8 +55,7 @@ Feel free to open an issue or submit a pull request.
 
  ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
+This project is licensed under 
 ---
 
 Made with ❤️ by [anand44xy](https://github.com/anand44xy)
